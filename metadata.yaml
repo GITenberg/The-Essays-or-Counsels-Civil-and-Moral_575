@@ -1,0 +1,29 @@
+_repo: The-Essays-or-Counsels-Civil-and-Moral_575
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bacon, Francis
+    aliases:
+    - Verulam, Francis Bacon
+    - St. Albans, Francis Bacon, Viscount
+    birthdate: 1561
+    deathdate: 1626
+    gutenberg_agent_id: '296'
+    url: http://www.gutenberg.org/2009/agents/296
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Bacon
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '1996-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English essays -- Early modern, 1500-1700'
+- !lcc 'PR'
+- GITenberg
+title: The Essays or Counsels, Civil and Moral
+url: http://www.gutenberg.org/ebooks/575

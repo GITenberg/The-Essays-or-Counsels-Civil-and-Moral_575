@@ -1,5 +1,8 @@
 _repo: The-Essays-or-Counsels-Civil-and-Moral_575
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bacon, Francis
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/296
     wikipedia: http://en.wikipedia.org/wiki/Francis_Bacon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/575#The-Essays-or-Counsels-Civil-and-Moral
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '1996-06-01'
 gutenberg_type: Text
